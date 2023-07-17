@@ -1,4 +1,4 @@
-const FoodDataJson = [
+[
     {
       id: 1,
       name: "Love Bite Pizza",
@@ -64,5 +64,5 @@ const FoodDataJson = [
     },
   ];
   
-  export default FoodDataJson;
+
 
