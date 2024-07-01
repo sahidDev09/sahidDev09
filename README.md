@@ -37,6 +37,16 @@
 
 <h2 align="left">Statistics Analysis</h2>
 
+<div align=center>
+    
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joyantgupta&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joyantgupta&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joyantgupta&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joyantgupta&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joyantgupta&theme=github_dark)
+
+</div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahiddev09&show_icons=true&locale=en&layout=compact" alt="sahiddev09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahiddev09&show_icons=true&locale=en" alt="sahiddev09" /></p>
