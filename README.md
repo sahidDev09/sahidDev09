@@ -36,7 +36,7 @@
   </a>
 </p>
 
-**statistics analysis**
+<h2 align="left">Statistics Analysis</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahiddev09&show_icons=true&locale=en&layout=compact" alt="sahiddev09" /></p>
 
