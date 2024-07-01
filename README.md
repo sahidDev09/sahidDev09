@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Studying Computer science engineering at [Metropolitan University Sylhet](https://metrouni.edu.bd)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js**, **Next.js**
 
 - 💬 Ask me about **Android, MEARN**
 
@@ -26,7 +26,7 @@
 <h3 align="left">Languages and Framework Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,c,js,react,redux,java,mongodb,mongodb,nodejs," />
   </a>
 </p>
 
