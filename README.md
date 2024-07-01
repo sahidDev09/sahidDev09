@@ -40,7 +40,8 @@
   <img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahidDev09&theme=default" alt="Profile Details" style="width: 100%;">
   <div id="secondCard" style="display: flex; justify-content: space-between;">
     <img id="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidDev09&layout=donut&theme=default" alt="Top Languages" style="width: 49%; outline: none;">
-   ![sahidDev09's Stats](https://github-readme-stats.vercel.app/api?username=sahidDev09&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+    <img src="https://github-readme-stats.vercel.app/api?username=sahidDev09&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="sahidDev09's Stats" style="width: 100%;">
+
   </div>
 </div>
 
