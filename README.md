@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm SAHID</h1>
 <h3 align="center">A passionate MERN stack developer from BANGLADESH</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahiddev09&label=Profile%20views&color=0e75b6&style=flat" alt="sahiddev09" /> </p>
 
 - 🔭 I’m currently Studying Computer science engineering at [Metropolitan University Sylhet](https://metrouni.edu.bd)
@@ -28,7 +27,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,firebase,c,js,react,redux,java,express,mongodb,nodejs,git,github, " />
   </a>
 </p>
-<h3 align="left">Technology and Softwere:</h3>
+<h3 align="left">Technology and Software:</h3>
 <p align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,netlify,notion,stackoverflow,xd,ps,ai" />
@@ -38,14 +37,16 @@
 <h2 align="left">Statistics Analysis</h2>
 
 <div align=left>
-    
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahidDev09) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahidDev09&layout=donut)](https://github.com/sahidDev09/github-readme-stats) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahidDev09&theme=theme_dark)
-
-
+  <img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahidDev09&theme=default" alt="Profile Details">
+  <img id="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidDev09&layout=donut&theme=default" alt="Top Languages">
+  <img id="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahidDev09&theme=default" alt="Stats">
 </div>
 
+<script>
+  // This script would go in your website, not your README.md
+  const theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'default';
 
-
-
+  document.getElementById('profile-details').src = `https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahidDev09&theme=${theme}`;
+  document.getElementById('top-langs').src = `https://github-readme-stats.vercel.app/api/top-langs/?username=sahidDev09&layout=donut&theme=${theme}`;
+  document.getElementById('stats').src = `https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahidDev09&theme=${theme}`;
+</script>
