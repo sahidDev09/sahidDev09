@@ -33,7 +33,7 @@
 <h3 align="left">Technology and Softwere:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,netlify,notion,stackoverflow,xd" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,netlify,notion,stackoverflow,xd,ps,ai" />
   </a>
 </p>
 
