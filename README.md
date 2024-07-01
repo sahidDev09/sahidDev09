@@ -26,7 +26,7 @@
 <h3 align="left">Languages and Framework Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap, c,js,react,redux,java,express,mongodb,nodejs,git, github, " />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,c,js,react,redux,java,express,mongodb,nodejs,git,github, " />
   </a>
 </p>
 
