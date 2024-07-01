@@ -39,7 +39,7 @@
 
 <div align=center>
     
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahidDev09&theme=github_dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahidDev09)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahidDev09&theme=github_light) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahidDev09&theme=github_light)
 
