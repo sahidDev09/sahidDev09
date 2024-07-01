@@ -1,4 +1,4 @@
-![logo](https://github.com/sahidDev09/sahidDev09/blob/main/gitbanner.jpg)
+![logo]([https://github.com/sahidDev09/sahidDev09/blob/main/gitbanner.jpg](https://i.ibb.co/gdBmPnY/1714705702153.jpg))
 <h1 align="center">Hi 👋, I'm SAHID</h1>
 <h3 align="center">A passionate frontend developer from BANGLADESH</h3>
 
