@@ -22,7 +22,6 @@
 <a href="https://instagram.com/0sahid_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0sahid_99" height="30" width="40" /></a>
 </p>
 
-
 <h3 align="left">Languages and Framework Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -36,6 +35,8 @@
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,netlify,notion,stackoverflow,xd,ps,ai" />
   </a>
 </p>
+
+<h3 align="center">Statistic Analyzing:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahiddev09&show_icons=true&locale=en&layout=compact" alt="sahiddev09" /></p>
 
