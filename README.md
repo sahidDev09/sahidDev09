@@ -37,7 +37,7 @@
 
 <h2 align="left">Statistics Analysis</h2>
 
-<div align=center>
+<div align=left>
     
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahidDev09)
 
