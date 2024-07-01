@@ -38,7 +38,7 @@
 
 <div align="left">
   <img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahidDev09&theme=default" alt="Profile Details" style="width: 100%;">
-  <div id="secondCard" style="display: flex; justify-content: space-between;">
+  <div id="secondCard">
     <img id="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidDev09&layout=donut&theme=default" alt="Top Languages" style="width: 49%; height: 200px;">
     <img id="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahidDev09&theme=default" alt="Stats" style="width: 49%; height: 200px;">
   </div>
