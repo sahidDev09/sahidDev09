@@ -38,12 +38,10 @@
 
 <div align="left">
   <img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahidDev09&theme=default" alt="Profile Details" style="width: 100%;">
-  <div id="secondCard" style="display: flex; justify-content: space-between;" style="width: 100%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidDev09&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="sahidDev09's Top Languages" style="width: 50%;">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sahidDev09&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="sahidDev09's Stats" style="width: 50%;">
-
-
+  <div id="secondCard" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1%; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidDev09&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="sahidDev09's Top Languages" style="width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=sahidDev09&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="sahidDev09's Stats" style="width: 100%;">
   </div>
 </div>
+
 
