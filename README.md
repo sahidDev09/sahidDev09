@@ -37,9 +37,10 @@
 <h2 align="left">Statistics Analysis</h2>
 
 <div align="left">
-  <img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahidDev09&theme=github_dark" alt="Profile Details" style="width: 100%;">
+  <img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahidDev09&theme=default" alt="Profile Details" style="width: 100%;">
   <div id="secondCard" style="display: flex; justify-content: space-between;">
-    <img id="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidDev09&layout=donut&theme=github_dark" alt="Top Languages" style="width: 49%;">
-    <img id="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahidDev09&theme=github_dark" alt="Stats" style="width: 49%;">
+    <img id="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidDev09&layout=donut&theme=default" alt="Top Languages" style="width: 49%; outline: none;">
+    <img id="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahidDev09&theme=default" alt="Stats" style="width: 49%; height: auto;">
   </div>
 </div>
+
