@@ -39,9 +39,8 @@
 
 <div align=left>
     
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahidDev09)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahidDev09) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahidDev09) 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahidDev09) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahidDev09)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahidDev09) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahidDev09)
 
