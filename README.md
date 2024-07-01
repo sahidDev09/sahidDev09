@@ -36,9 +36,8 @@
 
 <h2 align="left">Statistics Analysis</h2>
 
-<div align=left>
-  <img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahidDev09&theme=default" alt="Profile Details">
-   <img id="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidDev09&layout=donut&theme=default" alt="Top Languages" height="195">
-  <img id="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahidDev09&theme=default" alt="Stats" height="195">
+<div align="left">
+  <img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahidDev09&theme=default" alt="Profile Details" style="width: 100%;">
+  <img id="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidDev09&layout=donut&theme=default" alt="Top Languages" style="width: 100%;">
+  <img id="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahidDev09&theme=default" alt="Stats" style="width: 100%;">
 </div>
-
