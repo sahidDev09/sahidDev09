@@ -1,6 +1,6 @@
 ![logo](https://i.ibb.co/gdBmPnY/1714705702153.jpg)
 <h1 align="center">Hi 👋, I'm SAHID</h1>
-<h3 align="center">A passionate frontend developer from BANGLADESH</h3>
+<h3 align="center">A passionate MERN stack developer from BANGLADESH</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahiddev09&label=Profile%20views&color=0e75b6&style=flat" alt="sahiddev09" /> </p>
