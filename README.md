@@ -41,9 +41,8 @@
     
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahidDev09) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahidDev09&layout=donut)](https://github.com/sahidDev09/github-readme-stats) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahidDev09)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahidDev09&layout=donut)](https://github.com/sahidDev09/github-readme-stats) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahidDev09)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahidDev09) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahidDev09)
 
 </div>
 
