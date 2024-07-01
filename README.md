@@ -24,14 +24,14 @@
 
 
 <h3 align="left">Languages and Framework Tools:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,firebase,c,js,react,redux,java,express,mongodb,nodejs,git,github, " />
   </a>
 </p>
 
 <h3 align="left">Technology and Softwere:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,netlify,notion,stackoverflow,xd" />
   </a>
