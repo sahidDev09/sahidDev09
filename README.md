@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js**, **Next.js**
 
-- 💬 Ask me about **Android, MEARN**
+- 💬 Ask me about **MEARN**
 
 - 📫 How to reach me **iamsahidofficial99@gmail.com**
 
