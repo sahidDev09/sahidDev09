@@ -52,9 +52,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=sahidDev09&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="sahidDev09's Stats" style="width: 52%; height: 100%">
 
-
   </div>
 </div>
-
-
-](https://gh-stats-gen.vercel.app)
