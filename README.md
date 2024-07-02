@@ -19,6 +19,17 @@
 <a href="https://www.linkedin.com/in/sahidofficial09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahidahmed" height="30" width="40" /></a>
 <a href="https://fb.com/sm.sahid99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sm.sahid99" height="30" width="40" /></a>
 <a href="https://instagram.com/0sahid_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0sahid_99" height="30" width="40" /></a>
+<a href="https://dribbble.com/sahid_09" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sahid_09" height="30" width="40" />
+</a>
+<a href="https://www.behance.net/sahidahmed" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sahidahmed" height="30" width="40" />
+</a>
+<a href="https://discord.gg/sahid_09" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sahid_09" height="30" width="40" />
+</a>
+
+
 </p>
 
 <h3 align="left">Languages and Framework Tools:</h3>
