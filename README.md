@@ -1,4 +1,4 @@
-![logo](https://i.ibb.co/gdBmPnY/1714705702153.jpg)
+[![logo](https://i.ibb.co/gdBmPnY/1714705702153.jpg)
 <h1 align="center">Hi 👋, I'm SAHID</h1>
 <h3 align="center">A passionate MERN stack developer from BANGLADESH</h3>
 
@@ -57,3 +57,4 @@
 </div>
 
 
+](https://gh-stats-gen.vercel.app)
