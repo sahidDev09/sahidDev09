@@ -1,4 +1,4 @@
-![logo](https://github.com/sahidDev09/sahidDev09/blob/main/gitBanner_italic.png)
+![logo](https://github.com/sahidDev09/sahidDev09/blob/main/gitBanner_crop.png)
 <h1 align="center">Hi 👋, I'm SAHID</h1>
 <h3 align="center">A passionate MERN stack developer from BANGLADESH</h3>
 
