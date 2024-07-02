@@ -25,7 +25,7 @@
 <a href="https://www.behance.net/sahidahmed" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sahidahmed" height="30" width="40" />
 </a>
-<a href="https://discord.gg/sahid_09" target="_blank">
+<a href="[https://discord.gg/sahid_09](https://discord.gg/JTNQUePX)" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sahid_09" height="30" width="40" />
 </a>
 
